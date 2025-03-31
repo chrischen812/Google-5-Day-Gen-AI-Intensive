@@ -3,10 +3,10 @@ name: End-to-end Gen AI starter kit - Unit test
 on:
   push:
     paths:
-      - "Code/Day 5 - MLOps for Generative AI/e2e-gen-ai-app-starter-pack/**"
+      - "Nov24/Day 5 - MLOps for Generative AI/e2e-gen-ai-app-starter-pack/**"
   pull_request:
     paths:
-      - "Code/Day 5 - MLOps for Generative AI/e2e-gen-ai-app-starter-pack/**"
+      - "Nov24/Day 5 - MLOps for Generative AI/e2e-gen-ai-app-starter-pack/**"
 
 jobs:
   unit-test:
